@@ -122,13 +122,13 @@ phone.fall();
 
 
 //  8)
-//  Noun:       bird
-//  action 1:   the bird flies
-bird.fly();
-//  action 2:   the bird sings
-bird.sing();
-//  action 3:   the bird chirps
-bird.chirp();
+//  Noun:       washing machine
+//  action 1:   the washing machine pauses
+washingMachine.pause();
+//  action 2:   the washing machine stops
+washingMachine.stop();
+//  action 3:   the washing machine starts centrifuge program
+washingMachine.startCentrifuge();
 
 
 //  9)
